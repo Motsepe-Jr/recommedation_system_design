@@ -27,8 +27,8 @@ Before running the service, ensure that the following tools are installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/sanlam-recommendation-service.git
-cd sanlam-recommendation-service
+git clone https://github.com/Motsepe-Jr/recommedation_system_design.git
+cd recommedation_system_design
 ```
 ### Step 2: Build and Run the Containers
 The service is containerized using Docker and orchestrated with Docker Compose.
